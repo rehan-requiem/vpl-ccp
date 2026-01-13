@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+	<SelfContained>true</SelfContained>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+	<PublishSingleFile>true</PublishSingleFile>
+  </PropertyGroup>
+
+</Project>
